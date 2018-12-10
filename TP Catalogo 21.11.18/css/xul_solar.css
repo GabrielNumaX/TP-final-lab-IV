@@ -1,0 +1,23 @@
+body {
+  background-image:url("../Fotos/xul_solar_vuel_villa.jpg");
+  height: auto;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+#pXulSolar {
+  color:  black;
+  text-align: center;
+  font-size: 14;
+}

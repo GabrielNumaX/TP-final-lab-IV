@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Galeria de Arte NumaX</title>
+    <style>
+      p {
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <script> src="./funcionSearch.js" </script>
+    <style>
+      body {background-color: black;}
+    </style>
+    <div>
+      <form id="searchBar">
+        <style>
+        form {background-color:grey;}
+        </style>
+        <input id="searchText" type="text" placeholder="Buscar..." name="search">
+        <button id="searchBtn" type="submit"
+          onclick="document.getElementById('searchBar').submit(); return false;">
+          Buscar</button>
+          <!--"search();"-->
+      </form>
+
+      <link rel="stylesheet" type="text/css" href="./css/encabezadoBody.css">
+
+<h1>Bienvenido a la Galeria de Arte NumaX</h1>
+<h2>Estas son algunas de las obras actualmente en exposicion para la venta</h2>
+    <div id="seccionPrincipal">
+      <script src="carga_index.js"> </script>
+    </div>
+  <footer id="foot">
+    <style>
+      #foot {
+        background-color: black;
+        color: white;
+        bottom: 0;
+        text-align: center;
+        font-size: 11;
+        border: 3px solid grey;
+      }
+    </style>
+    Galeria de Arte NumaX <br>
+    Todos los derechos reservados <br>
+    Copyright 2018 by NumaX inc
+  </footer>
+  </html>

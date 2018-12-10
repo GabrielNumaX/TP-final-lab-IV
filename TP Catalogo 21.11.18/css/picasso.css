@@ -1,0 +1,23 @@
+body {
+  background-image:url("../Fotos/guernica-picasso-cke.jpg");
+  height: auto;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+}
+
+#pPicasso {
+  color: purple;
+  text-align: center;
+  font-size: 14;
+}

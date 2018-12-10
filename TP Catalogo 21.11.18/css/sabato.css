@@ -1,0 +1,23 @@
+body {
+  background-image:url("../Fotos/sabato_por_que_gritara.jpg");
+  height: auto;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+#pSabato {
+  color:  white;
+  text-align: center;
+  font-size: 14;
+}

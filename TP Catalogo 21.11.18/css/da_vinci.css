@@ -1,0 +1,23 @@
+body {
+  background-image:url("../Fotos/Leonardo_da_Vinci_-_Mona_Lisa.jpg");
+  height: auto;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+#pDaVinci {
+  color: white;
+  text-align: center;
+  font-size: 14;
+}

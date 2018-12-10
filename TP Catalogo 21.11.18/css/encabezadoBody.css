@@ -1,0 +1,16 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+#seccionPrincipal {
+  background-color: white;
+  color: black;
+  align-self: center;
+}

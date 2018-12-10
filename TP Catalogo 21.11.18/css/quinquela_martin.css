@@ -1,0 +1,23 @@
+body {
+  background-image:url("../Fotos/quinquela_martin_el_puente_de_la_boca.jpg");
+  height: auto;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+#pQuinquela {
+  color:  black;
+  text-align: center;
+  font-size: 14;
+}
